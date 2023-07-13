@@ -1,2 +1,7 @@
 # PHP Restaurant Website
-Simple PHP online restaurant website with customer and employee panel. Plain CSS and PHP. CRUD operations in employee panel.
+Simple university project of PHP online restaurant website with customer and employee panel. Plain CSS and PHP. CRUD operations in employee panel.
+## Technologies:
+- PHP
+- HTML/CSS
+- JS
+- MySQL
